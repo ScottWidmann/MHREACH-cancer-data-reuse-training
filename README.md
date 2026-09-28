@@ -2,7 +2,7 @@
 
 A four-part, no-code training program that teaches high-school students to reuse public cancer genomics databases — cBioPortal, TCGA, and METABRIC — and pathway/network tools — Enrichr and STRING — to develop and investigate an original breast cancer research question, culminating in a scientific poster.
 
-This repository is a curated, public-release version of the original MHREACH program materials (2026). It is published as evidence for an NCI ODS Impact Prize application, where this program is described as the precursor of that proposal's no-code browser tier: everything here runs in a standard web browser, with no coding, no downloads, and no specialized software license required.
+This repository is a curated, public-release version of the original MHREACH program materials (2026). Everything here runs in a standard web browser, with no coding, no downloads, and no specialized software license required.
 
 **Rights holder:** Scott Widmann. See `LICENSE` for terms and `CITATION.cff` for how to cite this program.
 
