@@ -1,6 +1,6 @@
 # MHREACH Breast Cancer Data Reuse Training
 
-A four-part, no-code training program that teaches high-school students to reuse public cancer genomics databases — cBioPortal, TCGA, and METABRIC — and pathway/network tools — Enrichr and STRING — to develop and investigate an original breast cancer research question, culminating in a scientific poster.
+A four-part, no-code training program that teaches high school students to reuse public cancer genomics databases such as cBioPortal, TCGA, and METABRIC, and pathway/network tools Enrichr and STRING to develop and investigate an original breast cancer research question, culminating in a scientific poster.
 
 This repository is a curated, public-release version of the original MHREACH program materials (2026). Everything here runs in a standard web browser, with no coding, no downloads, and no specialized software license required.
 
