@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or adapt this training program, please cite it as below."
+type: dataset
+title: "MHREACH Breast Cancer Data Reuse Training"
+abstract: >-
+  A high-school-level training program teaching students to reuse public
+  cancer genomics databases (cBioPortal, TCGA, METABRIC) and pathway/network
+  tools (Enrichr, STRING) to develop and investigate breast cancer research
+  questions, culminating in a scientific poster. Curated for public release
+  as evidence for the NCI ODS Impact Prize application, where this program is
+  described as the precursor of that proposal's no-code browser tier.
+authors:
+  - family-names: Widmann
+    given-names: Scott
+date-released: 2026-01-01
+url: "https://github.com/ScottWidmann/MHREACH-cancer-data-reuse-training"
+repository-code: "https://github.com/ScottWidmann/MHREACH-cancer-data-reuse-training"
+license:
+  - CC-BY-4.0
+  - MIT
+keywords:
+  - cancer genomics
+  - breast cancer
+  - bioinformatics education
+  - cBioPortal
+  - Enrichr
+  - STRING
+  - high school research
+  - data reuse
+  - science education
+  - TCGA

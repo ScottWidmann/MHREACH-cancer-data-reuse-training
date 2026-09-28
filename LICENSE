@@ -1,0 +1,89 @@
+MHREACH Breast Cancer Data Reuse Training — License
+
+Copyright (c) 2026 Scott Widmann
+
+This repository uses two licenses, depending on file type.
+
+================================================================================
+1. Lectures, protocols, worksheets, and other documentation
+================================================================================
+
+Applies to: everything in `lectures/`, `protocols/`, `example_outputs/`,
+`README.md`, `resources.md`, and any other non-code document in this
+repository, unless a file states otherwise.
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Scott Widmann
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+https://creativecommons.org/licenses/by/4.0/ or send a letter to
+Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format
+  - Adapt — remix, transform, and build upon the material
+  for any purpose, even commercially.
+
+Under the following terms:
+  - Attribution — You must give appropriate credit to Scott Widmann,
+    provide a link to the license, and indicate if changes were made.
+    You may do so in any reasonable manner, but not in any way that
+    suggests the licensor endorses you or your use.
+  - No additional restrictions — You may not apply legal terms or
+    technological measures that legally restrict others from doing
+    anything the license permits.
+
+No warranties are given. The license may not give you all of the
+permissions necessary for your intended use. For example, other rights
+such as publicity, privacy, or moral rights may limit how you use the
+material.
+
+The full legal text of this license is available at:
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+================================================================================
+2. Code
+================================================================================
+
+Applies to: any file under `scripts/`, or any other source-code file in
+this repository, unless that file states otherwise.
+
+MIT License
+
+Copyright (c) 2026 Scott Widmann
+
+Permission is hereby granted, free of charge, to any person obtaining a
+copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be included
+in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+================================================================================
+Notes
+================================================================================
+
+- This repository does not currently contain a `scripts/` directory or
+  any source code; the MIT terms above apply automatically if and when
+  code is added.
+- This license covers only the original instructional content authored
+  for this program. It does not grant any rights to third-party
+  trademarks, logos, or software interfaces (e.g., cBioPortal, Enrichr,
+  STRING) referenced or described in the curriculum. See `resources.md`
+  for the databases and tools this program teaches students to use, and
+  the exclusions section of `README.md` for third-party material that
+  was deliberately left out of this release.
