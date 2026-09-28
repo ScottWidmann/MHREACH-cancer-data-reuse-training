@@ -58,14 +58,6 @@ There is no `scripts/` directory: the original program materials contain no code
 
 This program does not use or redistribute any student data, and no student names, photos, or student-submitted work exist in this repository. It also does not download, store, or redistribute any dataset from a third-party database — students query TCGA and METABRIC live, through cBioPortal, in their own browser session, and record their own observations. See `resources.md` for the full list of external databases and tools referenced, with citations.
 
-### What was excluded from this release, and why
-
-- **19 embedded screenshots of the cBioPortal web interface** (including its logo) were removed from the original `cBioPortal_Introduction` protocol before converting it to `protocols/cBioPortal_Introduction.md`. These were instructor-provided illustrative screenshots of a third-party website's interface; redistribution rights for cBioPortal's UI and branding were not confirmed, so they were left out. The protocol's step-by-step instructions and all of its original text, tables, and checkpoints were preserved — students still capture their own screenshots while completing the activity, as the original protocol always intended.
-- **Student names, photos, and student-submitted work:** none existed in the source materials reviewed for this release, so none appear here. (The lecture decks and protocols are templates with blank fields for students to fill in; no completed student submissions were part of the source repository.)
-- **Third-party datasets:** none are redistributed. All data referenced (TCGA, METABRIC) stays on its original public host and is queried live through cBioPortal.
-- **Cluster paths, credentials, and institution-only URLs:** none were found in the source materials. All URLs referenced (cBioPortal, Enrichr, STRING) are public, no-login resources, listed in `resources.md`.
-- The two protocol worksheets (`Protocol_Enrichr_STRING.docx`, `cBioPortal_Introduction.docx`) were converted from `.docx` to Markdown for this release; the original `.docx` files are not included, since the Markdown versions are complete, readable, and easier to review and version.
-
 ## License and citation
 
 - Lectures, protocols, and this documentation are licensed under **CC BY 4.0**.
