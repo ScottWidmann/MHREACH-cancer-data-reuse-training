@@ -1,3 +1,5 @@
+<img src="assets/mhreach-logo.png" alt="MHREACH logo" width="450">
+
 # MHREACH Breast Cancer Data Reuse Training
 
 A four-part, no-code training program that teaches high-school students to reuse public cancer genomics databases — cBioPortal, TCGA, and METABRIC — and pathway/network tools — Enrichr and STRING — to develop and investigate an original breast cancer research question, culminating in a scientific poster.
@@ -50,6 +52,7 @@ CITATION.cff                — machine-readable citation metadata
 lectures/                   — the four lecture decks, in curriculum order
 protocols/                  — the two hands-on protocols, converted to Markdown
 example_outputs/            — one illustrative worked example (see above)
+assets/                     — the MHREACH program logo used in this README
 ```
 
 There is no `scripts/` directory: the original program materials contain no code, only lecture decks and fillable protocol worksheets, so none is included.
@@ -71,3 +74,4 @@ This program does not use or redistribute any student data, and no student names
 - Lectures, protocols, and this documentation are licensed under **CC BY 4.0**.
 - Any code added to this repository in the future is licensed under **MIT**.
 - See `LICENSE` for full terms and `CITATION.cff` for citation metadata.
+- The MHREACH program logo (`assets/mhreach-logo.png`) is a program/institutional mark, not original content authored for this release; it is not covered by the CC BY 4.0 grant above and may not be reused separately from this program without permission.
